@@ -1,0 +1,17 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# venv
+venv/
+.venv/
+
+# streamlit
+.streamlit/
+
+# editor
+.vscode/
+.DS_Store
