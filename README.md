@@ -24,12 +24,36 @@ Paste any screenplay scene like:
 ### ✅ Output (Strict JSON)
 ```json
 {
-  "emotion": "tension",
-  "narrative_purpose": "build anticipation and foreshadowing",
-  "visual_mood": "dark, isolated, cold atmosphere with heavy silence",
-  "camera_style": "static close-ups, slow push-in to increase suspense",
-  "confidence": 0.80
+  "mode": "director|writer",
+  "emotion": "string",
+  "genre": "string",
+  "tone": "string",
+  "intensity": "integer 1-10",
+  "narrative_purpose": "string",
+  "visual_mood": "string",
+  "camera_style": "string",
+  "color_palette": [
+    {"name": "string", "hex": "#RRGGBB", "usage": "string"}
+  ],
+  "shot_list": [
+    {
+      "shot_number": "int",
+      "shot_type": "string (Wide/Medium/Close-up/OTS/POV etc.)",
+      "camera_movement": "string",
+      "framing": "string",
+      "lighting": "string",
+      "purpose": "string"
+    }
+  ],
+  "storyboard_prompts": ["string", "string", "string"],
+  "writer_notes": {
+    "emotional_beat": "string",
+    "subtext": "string",
+    "dialogue_suggestions": ["string"]
+  },
+  "confidence": "float 0-1"
 }
+```
 
 📌 Problem We Solve
 

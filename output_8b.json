@@ -1,0 +1,82 @@
+{
+  "mode": "director",
+  "emotion": "tense",
+  "genre": "Thriller",
+  "tone": "Ominous",
+  "intensity": 8,
+  "narrative_purpose": "To create suspense and foreshadow a potential threat.",
+  "visual_mood": "Dim lighting with flickering shadows and an eerie atmosphere.",
+  "camera_style": "Static framing with a slow zoom in on Riya's face to emphasize her fear.",
+  "color_palette": [
+    {
+      "name": "Dark Blues",
+      "hex": "#212121",
+      "usage": "Background"
+    },
+    {
+      "name": "Flickering Lights",
+      "hex": "#FFD700",
+      "usage": "Accent"
+    },
+    {
+      "name": "Riya's Skin",
+      "hex": "#FFC080",
+      "usage": "Subject"
+    }
+  ],
+  "shot_list": [
+    {
+      "shot_number": 1,
+      "shot_type": "Medium Shot",
+      "camera_movement": "Static",
+      "framing": "Centered on Riya",
+      "lighting": "Dim",
+      "purpose": "Establish setting and introduce Riya"
+    },
+    {
+      "shot_number": 2,
+      "shot_type": "Close-up",
+      "camera_movement": "Slow Zoom",
+      "framing": "Riya's face",
+      "lighting": "Flickering",
+      "purpose": "Emphasize Riya's fear"
+    },
+    {
+      "shot_number": 3,
+      "shot_type": "Over-the-Shoulder",
+      "camera_movement": "Static",
+      "framing": "Riya's face and phone",
+      "lighting": "Dim",
+      "purpose": "Show Riya's phone and her reaction"
+    },
+    {
+      "shot_number": 4,
+      "shot_type": "Wide Shot",
+      "camera_movement": "Slow Pan",
+      "framing": "Warehouse interior",
+      "lighting": "Dim",
+      "purpose": "Show the warehouse's vastness and darkness"
+    },
+    {
+      "shot_number": 5,
+      "shot_type": "Point-of-View",
+      "camera_movement": "Static",
+      "framing": "Riya's perspective",
+      "lighting": "Flickering",
+      "purpose": "Put the audience in Riya's shoes"
+    }
+  ],
+  "storyboard_prompts": [
+    "Riya's phone light casts eerie shadows on the walls.",
+    "A faint noise echoes through the warehouse, making Riya jump.",
+    "Riya's eyes widen as she hears the CLICK."
+  ],
+  "writer_notes": {
+    "emotional_beat": "Riya's fear and uncertainty",
+    "subtext": "Riya's past experiences may be connected to this situation.",
+    "dialogue_suggestions": [
+      "Riya: (whispering) What was that?"
+    ]
+  },
+  "confidence": 0.9
+}

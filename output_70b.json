@@ -1,0 +1,106 @@
+{
+  "mode": "director",
+  "emotion": "eerie",
+  "genre": "Thriller",
+  "tone": "Suspenseful",
+  "intensity": 8,
+  "narrative_purpose": "Riya's investigation of the abandoned warehouse sets the stage for a terrifying discovery.",
+  "visual_mood": "Dim lighting and an ominous atmosphere create an unsettling environment.",
+  "camera_style": "The camera moves slowly and steadily, framing Riya in a medium shot to emphasize her vulnerability.",
+  "color_palette": [
+    {
+      "name": "Dark Grey",
+      "hex": "#333333",
+      "usage": "Dominant color for the warehouse interior"
+    },
+    {
+      "name": "Faint Blue",
+      "hex": "#4567b7",
+      "usage": "Accent color for the phone's screen glow"
+    },
+    {
+      "name": "Deep Shadow",
+      "hex": "#111111",
+      "usage": "Shadow color to enhance the eerie atmosphere"
+    }
+  ],
+  "shot_list": [
+    {
+      "shot_number": 1,
+      "shot_type": "Wide",
+      "camera_movement": "Static",
+      "framing": "Establishing shot of the warehouse interior",
+      "lighting": "Low-key",
+      "purpose": "Set the scene and create atmosphere"
+    },
+    {
+      "shot_number": 2,
+      "shot_type": "Medium",
+      "camera_movement": "Dolly",
+      "framing": "Riya enters the frame, phone in hand",
+      "lighting": "Backlit",
+      "purpose": "Introduce Riya and create tension"
+    },
+    {
+      "shot_number": 3,
+      "shot_type": "Close-up",
+      "camera_movement": "Static",
+      "framing": "Riya's face, eyes fixed on something in the distance",
+      "lighting": "Soft",
+      "purpose": "Show Riya's reaction to the faint click"
+    },
+    {
+      "shot_number": 4,
+      "shot_type": "OTS",
+      "camera_movement": "Handheld",
+      "framing": "Over Riya's shoulder, looking into the darkness",
+      "lighting": "Low-key",
+      "purpose": "Create a sense of unease and uncertainty"
+    },
+    {
+      "shot_number": 5,
+      "shot_type": "POV",
+      "camera_movement": "Static",
+      "framing": "What Riya sees: darkness and shadows",
+      "lighting": "Very low-key",
+      "purpose": "Put the audience in Riya's shoes"
+    },
+    {
+      "shot_number": 6,
+      "shot_type": "Wide",
+      "camera_movement": "Slow zoom",
+      "framing": "Riya standing still, phone held up",
+      "lighting": "Low-key",
+      "purpose": "Emphasize Riya's fear and uncertainty"
+    },
+    {
+      "shot_number": 7,
+      "shot_type": "Medium",
+      "camera_movement": "Dolly",
+      "framing": "Riya's back, as she moves deeper into the warehouse",
+      "lighting": "Backlit",
+      "purpose": "Create a sense of foreboding"
+    },
+    {
+      "shot_number": 8,
+      "shot_type": "Close-up",
+      "camera_movement": "Handheld",
+      "framing": "Riya's phone, screen glowing in the darkness",
+      "lighting": "Soft",
+      "purpose": "Highlight the phone as a source of light and hope"
+    }
+  ],
+  "storyboard_prompts": [
+    "Riya's phone screen flickers and dies",
+    "A figure emerges from the shadows behind Riya",
+    "Riya discovers a hidden room deep in the warehouse"
+  ],
+  "writer_notes": {
+    "emotional_beat": "Riya's fear and uncertainty",
+    "subtext": "Riya's investigation is driven by a personal connection to the warehouse",
+    "dialogue_suggestions": [
+      "What was that noise?"
+    ]
+  },
+  "confidence": 0.9
+}
